@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mufinlive&label=Profile%20views&color=0e75b6&style=flat" alt="mufinlive" /> </p>
 
-- 🔭 I’m currently working on [Sdon](https://github.com/mufinlive/SDON)
-
 - 🌱 I’m currently learning **Express, Java/Typescript, Angular**
 
 <h3 align="left">Connect with me:</h3>
