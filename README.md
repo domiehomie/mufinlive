@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Vue, UI/UX design**
 
-- 💬 Ask me about **Spigot, Java and typescript**
+- 💬 Ask me about **Spigot, Java and Typescript**
 
 - 📫 How to reach me **mufin@mufin.live**
 
