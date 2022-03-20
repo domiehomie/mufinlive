@@ -26,3 +26,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mufinlive&" alt="mufinlive" /></p>
 
+Discord: muffin#2938
